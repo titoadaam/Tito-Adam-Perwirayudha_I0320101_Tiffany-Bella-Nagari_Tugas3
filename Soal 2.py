@@ -1,3 +1,4 @@
+
 print("Membuat Dictionary")
 dict = {'Nama': 'Rizky Ammar Surya Saputra', 'Hobby': 'Olahraga, Nonton Film', 'Sosial Media': 'Instagram : @ammaar418, Line : @rizkyammar123', 'Lagu Kesukaan': 'Pamungkas : Tobe bone, Fiersa Besari : Celengan Rindu', 'Makanan Favorit': 'Nasi Goreng, Telor Dadar'}
 print(dict)

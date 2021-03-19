@@ -1,3 +1,4 @@
+
 tup1 = (12, 34, 56)
 tup2 = ('abd', 'xyz')
 #Aksi seperti dibawah ini tidak bisa dilakukan pada tuple python

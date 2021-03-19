@@ -1,3 +1,4 @@
+
 list = ['Tito', 'Sony', 'Yeario', 'Rizky', 'Alvin', 'Ryan', 'Rahmat', 'Vincentius', 'William', 'Rizal']
 print(list)
 print("Isi list indeks 4,6,dan  7: ", list[4], list[6], list[7])

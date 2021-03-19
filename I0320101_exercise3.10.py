@@ -1,3 +1,4 @@
+
 tup = ('fisika', 'kimia', 1993, 2017)
 print(tup)
 #hapus tuple dengan statement del

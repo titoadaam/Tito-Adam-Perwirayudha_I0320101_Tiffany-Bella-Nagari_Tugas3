@@ -1,3 +1,4 @@
+
 dict = {'Name': 'Tito', 'Age': 19, 'Class': 'First'}
 del dict['Name'] # hapus entry dengan key 'Name'
 dict.clear()     #hapus semua entri di dict

@@ -1,3 +1,4 @@
+
 dict ={'Name': 'Tito', 'Age': 19, 'Class': 'First'}
 dict['Age']=20 #mengubah entri yang sudah ada
 dict['School']="DPS School" #Menambah entri baru
